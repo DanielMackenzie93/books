@@ -14,5 +14,6 @@
 ---
 ##### Interested
 - [ ] [Never Split the Difference]()
+- [ ] [The Chimp Paradox]()
 - [ ] [The Flinch]()
 
