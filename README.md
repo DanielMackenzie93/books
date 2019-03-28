@@ -4,14 +4,8 @@
 
 ---
 #### In Progress
-###### [C# in depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
-> C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7. Following the expert guidance of C# legend Jon Skeet, you'll master asynchronous functions, expression-bodied members, interpolated strings, tuples, and much more.
----
-#### Interested
 ###### [Never Split the Difference](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 > A former international hostage negotiator for the FBI offers a new, field-tested approach to high-stakes negotiations—whether in the boardroom or at home.
-###### [The Chimp Paradox](https://www.amazon.co.uk/Chimp-Paradox-Management-Programme-Confidence/dp/009193558X)
-> The Chimp Paradox is an incredibly powerful mind management model that can help you become a happy, confident, healthier and more successful person.
 ###### [The Flinch](https://www.amazon.co.uk/Flinch-Julien-Smith-ebook/dp/B00NLJHGOA)
 > Julien Smith has delivered a surprise, a confrontation, a book that will push you, scare you and possibly stick with you for years to come. 
 > The idea is simple: your flinch mechanism can save your life. It shortcircuits the conscious mind and allows you to pull back and avoid danger faster than you can even imagine it’s there. 
@@ -19,6 +13,12 @@
 > What if facing the flinch is the one best way to get what you want? 
 > Here’s a chance to read the book everyone will be talking about, before they do. 
 > What are you afraid of? Here's how to find out.
+###### [C# in depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
+> C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7. Following the expert guidance of C# legend Jon Skeet, you'll master asynchronous functions, expression-bodied members, interpolated strings, tuples, and much more.
+---
+#### Interested
+###### [The Chimp Paradox](https://www.amazon.co.uk/Chimp-Paradox-Management-Programme-Confidence/dp/009193558X)
+> The Chimp Paradox is an incredibly powerful mind management model that can help you become a happy, confident, healthier and more successful person.
 ---
 #### Complete
 ###### [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067)
