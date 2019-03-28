@@ -19,8 +19,13 @@
 #### Interested
 ###### [The Chimp Paradox](https://www.amazon.co.uk/Chimp-Paradox-Management-Programme-Confidence/dp/009193558X)
 > The Chimp Paradox is an incredibly powerful mind management model that can help you become a happy, confident, healthier and more successful person.
+
 ###### [The Phoenix Project](https://www.audible.co.uk/pd/The-Phoenix-Project-Audiobook/B00VB034GK)
-> A Novel About IT, DevOps, and Helping Your Business Win
+> A Novel About IT, DevOps, and Helping Your Business Win.
+
+###### [The DevOps Handbook](https://www.audible.co.uk/pd/The-DevOps-Handbook-Audiobook/B0767L1K75)
+> How to Create World-Class Agility, Reliability, and Security in Technology Organizations.
+
 ---
 #### Complete
 ###### [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067)
