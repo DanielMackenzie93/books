@@ -19,6 +19,8 @@
 #### Interested
 ###### [The Chimp Paradox](https://www.amazon.co.uk/Chimp-Paradox-Management-Programme-Confidence/dp/009193558X)
 > The Chimp Paradox is an incredibly powerful mind management model that can help you become a happy, confident, healthier and more successful person.
+###### [The Phoenix Project](https://www.audible.co.uk/pd/The-Phoenix-Project-Audiobook/B00VB034GK)
+> A Novel About IT, DevOps, and Helping Your Business Win
 ---
 #### Complete
 ###### [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067)
