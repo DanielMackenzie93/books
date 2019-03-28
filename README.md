@@ -6,9 +6,6 @@
 #### In Progress
 ###### [C# in depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
 > C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7. Following the expert guidance of C# legend Jon Skeet, you'll master asynchronous functions, expression-bodied members, interpolated strings, tuples, and much more.
-###### [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067)
-> More than exercise, diet and wealth, science has shown that sleep is the most important factor to our physical and mental wellbeing.
-> In the first book of its kind written by a scientific expert, Professor Matthew Walker explores twenty years of cutting-edge sleep science.
 ---
 #### Interested
 ###### [Never Split the Difference](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
@@ -24,6 +21,11 @@
 > What are you afraid of? Here's how to find out.
 ---
 #### Complete
+###### [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067)
+**My Rating: ★★★★★**
+> More than exercise, diet and wealth, science has shown that sleep is the most important factor to our physical and mental wellbeing.
+> In the first book of its kind written by a scientific expert, Professor Matthew Walker explores twenty years of cutting-edge sleep science.
+
 ###### [12 Rules for Life An Antidote to Chaos (Unabridged)](https://www.amazon.co.uk/12-Rules-Life-Antidote-Chaos-ebook/dp/B078C6C7QS)
 **My Rating: ★★★★☆**
 > Acclaimed psychologist Jordan Peterson has become one of the most influential public thinkers to emerge on the world stage for many years, with his lectures on topics from the Bible to romantic relationships to mythology drawing an unprecedented following of tens of millions of viewers. In an era of unprecedented change and polarizing politics, his frank and refreshing message about the value of individual responsibility has resonated powerfully around the world.
