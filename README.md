@@ -50,3 +50,12 @@
 **My Rating: ★★★★☆**
 > By the man who helped invent the red-hot management process known as "Scrum", Scrum unveils what is wrong with the way we currently do work, and how a simple set of principles, applied in exactly the right sequence, can accelerate productivity and quality as much as 1,200 percent.
 > Scrum (which gets its name from the formation in rugby in which the whole team locks its arms to gain control of the ball) is the reason that Amazon can launch a new feature on its website every day. It's why the Red River Army Depot in Texas was able to roll out armored Humvees 39 times faster than before. It's how the FBI finally created a massive terrorist-tracking database.
+
+###### [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388)
+**My Rating: ★★☆☆☆**
+> The author offers advice on such matters as mastering emotions, overcoming debilitating habits such as over-eating, drinking and drug abuse, unleashing the hidden power of body and mind, improving personal and professional relationships, and taking control of personal finances.
+
+###### [The 5 Elements of Effective Thinking](https://www.amazon.co.uk/5-Elements-Effective-Thinking/dp/0691156662)
+**My Rating: ★★★★☆**
+> The 5 Elements of Effective Thinking presents practical, lively, and inspiring ways for you to become more successful through better thinking. The idea is simple: You can learn how to think far better by adopting specific strategies.
+
