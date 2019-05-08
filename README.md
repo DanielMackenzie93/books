@@ -28,6 +28,10 @@
 
 ---
 #### Complete
+###### [Influence: The Psychology of Persuasion](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X)
+**My Rating: ★★★★☆**
+> Influence, the classic book on persuasion, explains the psychology of why people say "yes"—and how to apply these understandings.
+
 ###### [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067)
 **My Rating: ★★★★★**
 > More than exercise, diet and wealth, science has shown that sleep is the most important factor to our physical and mental wellbeing.
