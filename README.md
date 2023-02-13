@@ -13,7 +13,7 @@ Books I have read, will read, or, am interested in reading.
 > What if facing the flinch is the one best way to get what you want? 
 > Here’s a chance to read the book everyone will be talking about, before they do. 
 > What are you afraid of? Here's how to find out.
-##### [C# in depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
+#### [C# in depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
 > C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7. Following the expert guidance of C# legend Jon Skeet, you'll master asynchronous functions, expression-bodied members, interpolated strings, tuples, and much more.
 ---
 ## Interested
@@ -28,7 +28,7 @@ Books I have read, will read, or, am interested in reading.
 
 ---
 ## Complete
-#### [Influence: The Psychology of Persuasion](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X)
+### [Influence: The Psychology of Persuasion](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X)
 **My Rating: ★★★★☆**
 > Influence, the classic book on persuasion, explains the psychology of why people say "yes"—and how to apply these understandings.
 
